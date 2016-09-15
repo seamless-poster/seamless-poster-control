@@ -29,6 +29,7 @@
         .then(value => {
           let batteryLevel = value.getUint8(0);
           log('> Battery Level is ' + batteryLevel + '%');
+          alert(batteryLevel);
         })
         .catch(error => {
           log('Argh! ' + error);
