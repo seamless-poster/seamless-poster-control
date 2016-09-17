@@ -1,0 +1,3 @@
+console.log('Basdasdasd');
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJkZXZpY2UuanMiXSwic291cmNlc0NvbnRlbnQiOlsiY29uc29sZS5sb2coJ0Jhc2Rhc2Rhc2QnKTtcbiJdLCJmaWxlIjoiZGV2aWNlLmpzIiwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0=
